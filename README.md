@@ -1,2 +1,2 @@
-# resume
-https://harry-b-smith.github.io/resume/
+# https://harry-b-smith.github.io/resume/
+Resume 
